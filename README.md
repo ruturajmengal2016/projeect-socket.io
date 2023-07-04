@@ -1,6 +1,6 @@
-## Running application
-# development
+# Running application
+### development
 $ npm run start
 
-# watch mode
+### watch mode
 $ npm run start:dev
